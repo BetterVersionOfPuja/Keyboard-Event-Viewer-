@@ -13,7 +13,7 @@ https://betterversionofpuja.github.io/Keyboard-Event-Viewer/
 
 ## Doubts Solved While Building
 - How `innerHTML` renders HTML instead of printing code
-(`innerHTML gets or sets the HTML content of an element; when set, the browser parses and renders the HTML string as actual elements. use this`)
+(`innerHTML gets or sets the HTML content of an element; when set, the browser parses and renders the HTML string as actual elements.`)
 - How event objects are passed to callback functions
 - Difference between `innerHTML`, `innerText`, and `textContent`
 - Handling special keys like the spacebar
